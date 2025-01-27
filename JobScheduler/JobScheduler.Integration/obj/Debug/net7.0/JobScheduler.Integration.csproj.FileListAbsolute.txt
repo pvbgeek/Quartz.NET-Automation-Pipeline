@@ -1,0 +1,11 @@
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\bin\Debug\net7.0\JobScheduler.Integration.deps.json
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\bin\Debug\net7.0\JobScheduler.Integration.dll
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\bin\Debug\net7.0\JobScheduler.Integration.pdb
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\obj\Debug\net7.0\JobScheduler.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\obj\Debug\net7.0\JobScheduler.Integration.AssemblyInfoInputs.cache
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\obj\Debug\net7.0\JobScheduler.Integration.AssemblyInfo.cs
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\obj\Debug\net7.0\JobScheduler.Integration.csproj.CoreCompileInputs.cache
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\obj\Debug\net7.0\JobScheduler.Integration.dll
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\obj\Debug\net7.0\refint\JobScheduler.Integration.dll
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\obj\Debug\net7.0\JobScheduler.Integration.pdb
+C:\Users\pvbco\Desktop\JobScheduler\JobScheduler.Integration\obj\Debug\net7.0\ref\JobScheduler.Integration.dll

@@ -1,0 +1,16 @@
+<Window x:Class="JobScheduler.UI.DataWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Generated Plots" Height="600" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Generated Plots" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10,0,10" />
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+                <Image x:Name="Plot1Image" Width="200" Height="200" Margin="10" />
+                <Image x:Name="Plot2Image" Width="200" Height="200" Margin="10" />
+                <Image x:Name="Plot3Image" Width="200" Height="200" Margin="10" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
